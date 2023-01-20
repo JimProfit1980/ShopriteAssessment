@@ -1,5 +1,2 @@
-com\crm\qa\testcases\ContactPageTest.class
-com\crm\qa\testcases\HomePageTest.class
-com\crm\qa\testcases\NewContactPageTest.class
-com\crm\qa\testcases\LoginPageTest.class
-com\crm\qa\testcases\NewContactSavedTest.class
+com\crm\qa\testcases\LandingPageTest.class
+com\crm\qa\testcases\StarWarsAPITest.class

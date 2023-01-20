@@ -1,7 +1,5 @@
 package com.crm.qa.testcases;
 
-import java.util.Random;
-
 import org.testng.Assert;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
@@ -29,7 +27,7 @@ public class LandingPageTest extends TestBase {
 	}
 	
 	@Test(priority=1)
-	public void retailSiteUpTest() throws InterruptedException {
+	public void productSelectedTest() throws InterruptedException {
 	landingPage.cookieButtonClicked();	
 	Assert.assertTrue(landingPage.retailLogoDisplayed(),"Retail Logo could not be displayed");		
 	searchResultsPage = landingPage.searchForItems("Juice");

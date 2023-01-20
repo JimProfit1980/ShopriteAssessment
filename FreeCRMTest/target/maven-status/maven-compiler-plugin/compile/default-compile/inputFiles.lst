@@ -1,12 +1,8 @@
-C:\Users\Shane\Eclipse WorkSpaces\Git POM Project\POMFreeCRMAutomation\FreeCRMTest\src\main\java\com\crm\qa\pages\DealsPage.java
-C:\Users\Shane\Eclipse WorkSpaces\Git POM Project\POMFreeCRMAutomation\FreeCRMTest\src\main\java\com\crm\qa\pages\NewContactSavedPage.java
-C:\Users\Shane\Eclipse WorkSpaces\Git POM Project\POMFreeCRMAutomation\FreeCRMTest\src\main\java\com\qa\ExtentReportListener\ExtentReporterNG.java
-C:\Users\Shane\Eclipse WorkSpaces\Git POM Project\POMFreeCRMAutomation\FreeCRMTest\src\main\java\com\crm\qa\base\TestBase.java
-C:\Users\Shane\Eclipse WorkSpaces\Git POM Project\POMFreeCRMAutomation\FreeCRMTest\src\main\java\com\crm\qa\pages\LoginPage.java
-C:\Users\Shane\Eclipse WorkSpaces\Git POM Project\POMFreeCRMAutomation\FreeCRMTest\src\main\java\com\crm\qa\pages\HomePage.java
-C:\Users\Shane\Eclipse WorkSpaces\Git POM Project\POMFreeCRMAutomation\FreeCRMTest\src\main\java\com\crm\qa\pages\ContactPage.java
-C:\Users\Shane\Eclipse WorkSpaces\Git POM Project\POMFreeCRMAutomation\FreeCRMTest\src\main\java\com\crm\qa\pages\SignUpPage.java
-C:\Users\Shane\Eclipse WorkSpaces\Git POM Project\POMFreeCRMAutomation\FreeCRMTest\src\main\java\com\crm\qa\pages\LoginCredentialsPage.java
-C:\Users\Shane\Eclipse WorkSpaces\Git POM Project\POMFreeCRMAutomation\FreeCRMTest\src\main\java\com\crm\qa\pages\NewContactPage.java
-C:\Users\Shane\Eclipse WorkSpaces\Git POM Project\POMFreeCRMAutomation\FreeCRMTest\src\main\java\com\crm\qa\util\TestUtil.java
-C:\Users\Shane\Eclipse WorkSpaces\Git POM Project\POMFreeCRMAutomation\FreeCRMTest\src\main\java\com\crm\qa\util\WebEventListener.java
+C:\Users\Shane\Eclipse-Shoprite\FreeCRMTest\src\main\java\com\crm\qa\pages\SearchResultsPage.java
+C:\Users\Shane\Eclipse-Shoprite\FreeCRMTest\src\main\java\com\crm\qa\pages\LandingPage.java
+C:\Users\Shane\Eclipse-Shoprite\FreeCRMTest\src\main\java\com\crm\qa\util\TestUtil.java
+C:\Users\Shane\Eclipse-Shoprite\FreeCRMTest\src\main\java\com\crm\qa\pages\SingleProductPage.java
+C:\Users\Shane\Eclipse-Shoprite\FreeCRMTest\src\main\java\com\crm\qa\base\TestBase.java
+C:\Users\Shane\Eclipse-Shoprite\FreeCRMTest\src\main\java\com\crm\qa\util\WebEventListener.java
+C:\Users\Shane\Eclipse-Shoprite\FreeCRMTest\src\main\java\com\crm\qa\testdata\StarWarsAPI.java
+C:\Users\Shane\Eclipse-Shoprite\FreeCRMTest\src\main\java\com\qa\ExtentReportListener\ExtentReporterNG.java

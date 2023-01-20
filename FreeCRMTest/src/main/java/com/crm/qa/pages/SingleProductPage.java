@@ -80,8 +80,14 @@ public class SingleProductPage extends TestBase {
 	 * Normal price of the product
 	 * **/
 	public double getPrice() {
+		double getPrice = 0.00;
+		try {
 		String updatePrice = normalPrice.getText().replace("R","");
-		double getPrice = Double.parseDouble(updatePrice);
-		return getPrice * 0.01;
+		getPrice = Double.parseDouble(updatePrice);		
 	}
+		catch(NumberFormatException nfe) {
+			nfe.printStackTrace();
+		}
+	return getPrice * 0.01;
+}
 }
